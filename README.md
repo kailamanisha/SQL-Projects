@@ -105,7 +105,7 @@ The dataset comprises sales transactions from three distinct Walmart branches si
  
  8. Which time of the day do customers give most ratings per branch?
  
- 9.Which day fo the week has the best avg ratings?
+ 9. Which day fo the week has the best avg ratings?
  
  10. Which day of the week has the best average ratings per branch?
 
